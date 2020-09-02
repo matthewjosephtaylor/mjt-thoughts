@@ -4,3 +4,7 @@
 - https://github.com/documentationjs/documentation
 - https://github.com/microsoft/tsdoc
 - https://swagger.io/specification/
+
+
+# Parsers
+- https://github.com/jonschlinkert/parse-comments
