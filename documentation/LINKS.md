@@ -1,4 +1,4 @@
-# Documentation
+# Documentation Formats
 
 - https://github.com/tj/dox
 - https://github.com/documentationjs/documentation
