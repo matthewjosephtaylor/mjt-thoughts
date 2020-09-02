@@ -6,6 +6,7 @@
 # Parsers
 - https://github.com/jonschlinkert/parse-comments
 - https://unifiedjs.com/
+- https://github.com/acornjs/acorn
 
 # Tools
 - https://github.com/doczjs/docz
