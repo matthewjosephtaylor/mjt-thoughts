@@ -1,2 +1,2 @@
 # mjt-thoughts
-Matt Taylor's thoughts on various subjects
+[Matt Taylor's](https://mjt.dev) thoughts on various subjects
