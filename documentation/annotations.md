@@ -1,4 +1,7 @@
-# JSDoc
+# Documentation annotations
+
+
+## JSDoc
 
 - @abstract (synonyms: @virtual) This member must be implemented (or overridden) by the inheritor.
 - @access Specify the access level of this member (private, package-private, public, or protected).
