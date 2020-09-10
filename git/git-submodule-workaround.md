@@ -4,7 +4,7 @@ They are too complex difficult and fragile to consider using for something as pr
 
 I recommend avoiding them at all costs. I can't even imagine this insanity being used anywhere.
 
-I note that even the linux kernel doesn't use submodules as far as I can tell: https://github.com/torvalds/linux
+I note that even the linux kernel doesn't use git submodules as far as I can tell: https://github.com/torvalds/linux
 
 I discovered a nice pattern that works in their place:
 
