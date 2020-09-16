@@ -1,9 +1,9 @@
-# Snapd must die
+# Snapd Must Die!
 
 Snaps seem like a good idea. I like the idea of application-segregation.
 
-But the `snapd` daemon started writing at 300kb/s to my memory card on 3 of my 4
-Raspberry Pis.
+But the `snapd` daemon started mysteriously writing at 300kb/s to my memory
+cards on 3 of my 4 `Raspberry Pi` devices today after a month or so of uptime.
 
 I'm not currently using any snaps and memory cards don't like being written to
 constantly.
