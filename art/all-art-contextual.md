@@ -28,7 +28,7 @@ Engineering according to wikipedia is
 [the use of scientific principles to design and build machines](https://en.wikipedia.org/wiki/Engineering)
 
 Science according to wikipedia is
-[is a systematic enterprise that builds and organizes knowledge in the form of testable explanations and predictions about the universe](https://en.wikipedia.org/wiki/Science)
+[a systematic enterprise that builds and organizes knowledge in the form of testable explanations and predictions about the universe](https://en.wikipedia.org/wiki/Science)
 
 I think both of these definitions are reasonable and align well with my
 thinking.
