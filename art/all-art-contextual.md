@@ -91,7 +91,20 @@ type Visible = Darkness | Light;
 
 The important thing to note is that this isn't just 'kind of like' that famous
 verse from the Bible, I claim it is _deeply_ equivalent, and that this is an
-important thing to understand if one wishes to understand 'programming'.
+important thing to understand if one wishes to understand the act of
+'programming' and how it differs from 'engineering' or 'science'.
+
+I'm not hypothesizing or proving anything. There is nothing easily recognized as
+science going on. Whatever meaning exists, is the meaning I the programmer am
+creating, no need to attempt to _hypothesize/test-for_ knowledge/meaning, I'm
+_building_ meaning by _communicating_ with _language_.
+
+I'm not putting together a 'machine' with a _purpose_ in the above code (What is
+the purpose of Darkness other than to act as the opposite of Light?). There is
+no recognizable engineering going on. True this may _eventually_ run on a
+machine which will 'do something', but maybe not. This source code may _never_
+be compiled outside of this post, yet it still serves to _communicate_ with
+_language_ and therefore create _meaning_.
 
 I have 'spoken' and created 'light' by _dividing_ light from darkness.
 
