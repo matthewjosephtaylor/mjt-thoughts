@@ -12,7 +12,7 @@ The words below are my own personal understanding and opinions on this subject.
 They are carefully chosen, but like all opinions they are _fleeting_ and are an
 expression of my thoughts at the _place_ and _time_ that I'm writing them from.
 
-# Programming is not engineering, not a Science, it is more, it is Art
+# Programming is not Engineering, not a Science. It is more. It is Art
 
 My understanding of the field of 'software development' aka 'programming' or
 'coding' or any of the other names for writing 'source code' to be transformed
