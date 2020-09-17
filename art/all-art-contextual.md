@@ -175,7 +175,7 @@ paradigm? What is the 'right' abstraction? What is the 'right' pattern? What is
 the 'right' name for this variable?
 
 There _is_ no 'right' answer, there is only the 'easiest' answer that happens to
-be at ones disposal at the _time_ and _place_.
+be at ones disposal at this _time_ and _place_.
 
 What one programmer chooses in answer to these questions will _always_ be
 somewhat different than what another programmer chooses (maybe event that same
