@@ -19,10 +19,10 @@ My understanding of the field of 'software development' aka 'programming' or
 into something a _machine_ can usefully interpret, goes against the grain.
 
 I beg to share my idea of what programming is, and why I rankle whenever someone
-uses the term 'Computer Science' or calls myself and other software
-developers/programmers 'software engineers'. I don't take offense, but it rubs
-me the wrong way, like when someone mispronounces a word I think _ought_ to be
-pronounced the way I understand it.
+uses the term 'Computer Science' to describe what I do, or calls myself and
+other software developers/programmers 'software engineers'. I don't take
+offense, but it rubs me the wrong way, like when someone mispronounces a word I
+think _ought_ to be pronounced the way I say it.
 
 Engineering according to wikipedia is
 [the use of scientific principles to design and build machines](https://en.wikipedia.org/wiki/Engineering)
