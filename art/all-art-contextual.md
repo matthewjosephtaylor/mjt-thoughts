@@ -61,9 +61,7 @@ an engineer would call what they do 'science-ing'.
 The other additional component that I think is _too often_ overlooked (even by
 programmers) is that programming uses other fields like
 [_linguistics_](https://en.wikipedia.org/wiki/Linguistics) (study of language),
-and
-[_semantics_](https://en.wikipedia.org/wiki/Semantics)/[_epistemology_](https://en.wikipedia.org/wiki/Epistemology)
-(study of meaning).
+and [_semantics_](https://en.wikipedia.org/wiki/Semantics) (study of meaning).
 
 Engineering is about _making_ a machine that _moves_ in a desired way by making
 use of the given laws of physics.
