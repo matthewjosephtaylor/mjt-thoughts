@@ -191,7 +191,7 @@ When color choosing, what is the 'right pigment' to use?
 etc... (hopefully you get the point)
 
 'Right' depends on context, but also critically depends on _what possibilities_
-exist, and what _constraints_ (limits) one is working under and I will claim is
+exist, and what _constraints_ (limits) one is working under which I will claim is
 always a _subjective_ choice.
 
 ## Questions and Answers
