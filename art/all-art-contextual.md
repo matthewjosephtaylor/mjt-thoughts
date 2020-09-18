@@ -124,7 +124,7 @@ create whatever my _creativity_ and _imagination_ allows me by combining
 _language_ and _meaning_ to tell a story. It is more akin to writing a novel,
 that creates a world for those who read it.
 
-But programming is a bit more than writing literature, which are stores only
+But programming is a bit more than writing literature, which are stories only
 other humans can read.
 
 If I now combine this new universe with _engineering_, I can have this new
