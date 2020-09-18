@@ -51,7 +51,7 @@ Science itself uses things like _logic_ but one would not say science _is_
 logic. Logic is just a tool to science, as science is a tool to engineering.
 
 So both science and engineering _use_ logic, which itself is another field that
-has its own set of things it depend upon, ad infinitum...
+has its own set of things it depends upon, ad infinitum...
 
 I think it is fair to say that 'software development' in a similar way _uses_
 some engineering principles, just as engineering uses some scientific
