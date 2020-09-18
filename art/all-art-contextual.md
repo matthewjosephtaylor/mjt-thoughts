@@ -97,7 +97,7 @@ type Visible = Darkness | Light;
 ```
 
 (this reads as 'there is a kind of thing called 'Visible' that is either
-'Darkness' or a 'Light').
+'Darkness' or 'Light').
 
 The important thing to note is that this isn't just 'kind of like' that famous
 verse from the Bible, I claim it is _deeply_ equivalent, and that this is an
