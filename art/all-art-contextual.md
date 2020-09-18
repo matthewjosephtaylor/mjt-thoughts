@@ -12,6 +12,15 @@ The words below are my own personal understanding and opinions on this subject.
 They are carefully chosen, but like all opinions they are _fleeting_ and are an
 expression of my thoughts at the _place_ and _time_ that I'm writing them from.
 
+## My context
+
+I'm an
+[old software developer](https://www.linkedin.com/in/matthewjosephtaylor/) who
+has been programming and building and messing around with computers since my
+childhood. I've been fascinated by, devoted to, and have dedicated, a large part
+of my life to programming. I'm a _practitioner_ not an _academic_. As the
+tagline on my resume says I 'live to code, and code to live'.
+
 # Programming is not Engineering, not a Science. It is more. It is Art
 
 My understanding of the field of 'software development' aka 'programming' or
@@ -46,7 +55,8 @@ has its own set of things it depend upon, ad infinitum...
 
 I think it is fair to say that 'software development' in a similar way _uses_
 some engineering principles, just as engineering uses some scientific
-principles.
+principles. But I would not call programming 'engineering' anymore than I think
+an engineer would call what they do 'science-ing'.
 
 The other additional component that I think is _too often_ overlooked (even by
 programmers) is that programming uses other fields like
@@ -55,28 +65,28 @@ and
 [_semantics_](https://en.wikipedia.org/wiki/Semantics)/[_epistemology_](https://en.wikipedia.org/wiki/Epistemology)
 (study of meaning).
 
-Engineering is about _making_ the machine _move_ by the 'brute force' of the
-laws of physics.
+Engineering is about _making_ a machine that _moves_ in a desired way by making
+use of the given laws of physics.
 
 Programming is about telling the machine a _meaningful_ story, so well crafted,
-that it moves on its own accord. It is the equivalent to _uttering_ a _magic
-spell_ and _affecting_ the real world.
+that it is compelled to move of its own accord. It is the equivalent to
+_uttering_ a _magic spell_ and watching the machine 'come to life'.
 
 As a programmer I think of an idea, and if I _speak_ it clearly enough, the
-world _obeys_.
+universe _obeys_.
 
 > And God said, Let there be light: and there was light. -- Bible, King James
 > Version
 
 There are names for someone who studies and speaks special languages, whose mere
-words can have powerful direct effects upon the word. They are sometimes called
+words can have powerful direct effects upon the world. They are sometimes called
 _wizards_, or _magicians_, if they become powerful enough, it is hard to
 distinguish them from _gods_ (what would you call an entity that 'spoke a world
 into being'?).
 
 I don't claim any of these titles, but I think it is important to know this is
-the _area_ we are delving into. This isn't just engineering, this isn't just
-science.
+the _area_ one is delving into by programming. This isn't just engineering, this
+isn't just science. This is _world building_.
 
 As a programmer, I do this:
 
@@ -94,10 +104,11 @@ verse from the Bible, I claim it is _deeply_ equivalent, and that this is an
 important thing to understand if one wishes to understand the act of
 'programming' and how it differs from 'engineering' or 'science'.
 
-I'm not hypothesizing or proving anything. There is nothing easily recognized as
-science going on. Whatever meaning exists, is the meaning I the programmer am
-creating, no need to attempt to _hypothesize/test-for_ knowledge/meaning, I'm
-_building_ meaning by _communicating_ with _language_.
+In programming, I'm not acting as a scientist trying to 'figure out' the world.
+There is nothing easily recognized as science going on. Whatever
+meaning/knowledge exists, is the meaning I the programmer am creating, no need
+to attempt to _hypothesize/test-for_ knowledge/meaning, I'm _building_ meaning
+by _communicating_ with _language_.
 
 I'm not putting together a 'machine' with a _purpose_ in the above code (What is
 the purpose of Darkness other than to act as the opposite of Light?). There is
@@ -110,7 +121,11 @@ I have 'spoken' and created 'light' by _dividing_ light from darkness.
 
 I have now _created_ a universe with light and dark. I can build upon this and
 create whatever my _creativity_ and _imagination_ allows me by combining
-_language_ and _meaning_ to tell a story that produces a _result_.
+_language_ and _meaning_ to tell a story. It is more akin to writing a novel,
+that creates a world for those who read it.
+
+But programming is a bit more than writing literature, which are stores only
+other humans can read.
 
 If I now combine this new universe with _engineering_, I can have this new
 creation affect other worlds such as the 'real' or 'physical' world in a
@@ -119,10 +134,10 @@ do is create a _mapping_ between the world I created, and the world I want to
 connect it with.
 
 In programming we call this mapping thing 'compiling the source code' to a
-particular _machine target_. The _machine_ is the thing that acts on behalf of
+particular _target machine_ . The _machine_ is the thing that acts on behalf of
 the compiled program. The compiled 'thing' is often called an 'executable', but
 it is a _direct translation_ of the original source code the programmer wrote
-(or 'spoke' or 'uttered'), to another _language_ that the particular machine can
+(or 'spoke' or 'uttered'), to another _language_ that a particular machine can
 'read' or 'understand'.
 
 Side note: Sometimes we use funny words like 'daemon' for some of our creations
