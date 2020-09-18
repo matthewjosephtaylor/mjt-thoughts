@@ -216,9 +216,12 @@ comfortable, or something personally meaningful (like grandma's wedding dress).
 
 After much careful consideration I therefore say: one should choose whichever
 'feels' the easiest at the time, and not worry too much about it. This also
-means don't think too much about things being 'wrong'. Just make them a bit
-better if one is so inclined, otherwise accept their 'wrongness' as 'flavor' or
-'style' that is not to one's personal taste.
+means don't focus too much about things being 'wrong'. Make it a bit better if
+one is so inclined, otherwise accept the 'wrongness' as a 'flavor' or 'style'
+that is not to one's present taste. It is OK to be and allow others to be
+'wrong'. It is also OK to attempt to 'right' a 'wrong', but know this is an
+endless task, which can bring joy or suffering depending on how it is
+approached.
 
 Yes, that means programming, like _all_ creative endeavors is based on _personal
 taste_, and everyone is going to be a bit different. I'll further argue that
