@@ -182,7 +182,7 @@ This goes deeper...
 
 When painting, what is the 'right color' to use?
 
-When singing, what is the 'right tempo' to sing in?
+When singing, what is the 'right key' to sing in?
 
 When choosing a pair of shoes, what is the 'right style' to choose?
 
