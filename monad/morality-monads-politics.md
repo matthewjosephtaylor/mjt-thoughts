@@ -1,21 +1,12 @@
 # Morality and Errors, Monads and Politics
 
 It is political season in the US as I write this and I find my various social
-media feeds littered with political speech.
+media feeds bursting with political speech.
 
-I say 'littered' because I don't care in general for the low-effort, thoughtless
-attempts at persuasion. To some degree I'm even offended that anyone would think
-that myself anyone else would respond positively (wether they agree or not).
+Why is that I wonder?
 
-But there is something within some of us that demands that they post what I
-assume they already know _most_ of those listening will find either boring or
-annoying, or both.
-
-Ultimately this is harmful to the _poster_ since as it makes their listeners
-want to stop paying attention. Their listeners will start to _tune out_ and
-become _deaf_ to _everything_ that the speaker has to say. The speaker
-eventually will be left speaking to an empty room, or worse, to a room filled
-with bored mirrors of themselves.
+This article is an attempt to reason out why people seem so eager to share their
+thoughts on politics.
 
 ## What is a Monad?
 
@@ -24,12 +15,15 @@ There is this beautiful thing in
 [Monad](https://en.wikipedia.org/wiki/Monad).
 
 In programming, a Monad is useful in instances where the _value_ of a thing is
-dependant on _context_.
+dependant on _context_, which is how I discovered it. But to be clear it is a
+_mathematical_ concept that was discovered by mathematicians first, but found to
+be useful for a certain style of programming.
 
 One can _kind_ of think of it like programming with _imaginary numbers_ where
 the _real_ numbers correspond with the _real_ world, and the _imaginary_ numbers
-correspond with some _pure imaginary_ world (like say mathematics). Monads are a
-sort of gateway that allows the _imaginary_ world to influence the _real_ world.
+correspond with some _pure imaginary_ world (like say the world of mathematics).
+Monads are a sort of gateway that allows the _imaginary_ world to influence the
+_real_ world.
 
 It is of course arbitrary which world one wants to call 'imaginary' vs 'real'.
 The basic idea is to 'combine' the two worlds together in a way that allows for
@@ -46,7 +40,7 @@ myGlass.map((contents) => console.log("this is some delicious ${contents}")); //
 Functor 'good enough' for this example)
 
 In the above example the _imaginary_ part is the 'grape juice' and the _real_
-part is logging the contents to the console.
+part is logging the contents to the console which I see with my 'real' eyes.
 
 Or maybe you want to think of the imaginary part as the console and the real
 part as the array that _contains_ the 'grape juice'. No practical difference.
@@ -106,7 +100,8 @@ For example `1 + 2 = 3`.
 `2` inside of it.
 
 In the same way one _could_ choose some arbitrary combination mechanism to
-provide an answer to the question.
+provide an answer to the question of how to combine `vanilla` and `chocolate` as
+we did for `1` and `2`.
 
 If we use 'addition' then we might find that the answer is a swirl-mix of
 chocolate and vanilla.
@@ -122,7 +117,7 @@ Bob, then both get vanilla?
 And on and on...there is no real limit to the ways to _combine_ preferences to
 get 'an answer'.
 
-Awesome. Problem solved!
+Awesome. Problem solved! There are no end of solutions!
 
 ## Unintended Consequences
 
@@ -197,8 +192,8 @@ socialism with no 'winner' in this endless battle.
 Looking around there appears to be a sort of 'fractal balance' between the two
 all through nature.
 
-It goes in humans from 'humans' -> 'nation-states'->'human
-organism'->organs->cells->organelles->....
+It goes in humans from humans -> nation-states->human
+organism->organs->cells->organelles->....
 
 Each one can be seen as a sort of 'individual contained within a society of
 those individuals'.
@@ -269,10 +264,11 @@ _prefer_ is the one where Alice and Bob are happy AND not too much ice-cream
 goes to waste. I'm encouraged that nature does not appear to like waste either,
 and so have hopes that pleasing-to-all solutions can be random-walked into
 
-I see the 'decisions' as effectively a random walk, which is why I prefer _many_
-solutions tried, to allow nature enough space to figure out what works and what
-doesn't. Not that it makes any difference, as I believe this is how nature is
-'solving the problem' already.
+Note that I see the 'decisions' of which ice-cream flavor is 'right' as
+effectively a random walk, which is why I prefer _many_ solutions tried, to
+allow nature enough space to figure out what works and what doesn't. Not that it
+makes any difference, as I believe this is how nature is 'solving the problem'
+already.
 
 The only _real_ difference is which universe I discover myself perceiving in.
 I'm betting that I can 'up the odds' of landing in a more pleasant moment by
@@ -287,9 +283,10 @@ towards the good' in all activities in general.
 
 As a hint I personally respond better to why something is _attractive_ than why
 something is unattractive. I think this response is a natural human inclination,
-so I'd recommend focusing on the _positive_ things you want me to be persuaded
-towards vs any _negative_ thing you want me to be persuaded against. If all I
-see is ugliness I turn off the channel entirely.
+so I'd recommend focusing on the _positive_ things you want individual(s) to be
+persuaded towards vs any _negative_ thing you want individual(s) to be persuaded
+against. If all I see is ugliness I turn off the channel entirely. If I see
+something beautiful or interesting I'm naturally attracted to it, and want more.
 
 For the record I think a giraffe's neck _should_ be about 6' in length, but that
 is just me being me, feel free to differ.
