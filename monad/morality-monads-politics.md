@@ -17,13 +17,14 @@ There is this beautiful thing in
 In programming, a Monad is useful in instances where the _value_ of a thing is
 dependant on _context_, which is how I discovered it. But to be clear it is a
 _mathematical_ concept that was discovered by mathematicians first, but found to
-be useful for a certain style of programming.
+be useful for a certain style of programming. It is a powerful way of _thinking_
+and I recommend learning more about it to anyone.
 
 One can _kind_ of think of it like programming with _imaginary numbers_ where
 the _real_ numbers correspond with the _real_ world, and the _imaginary_ numbers
-correspond with some _pure imaginary_ world (like say the world of mathematics).
-Monads are a sort of gateway that allows the _imaginary_ world to influence the
-_real_ world.
+correspond with some _pure imaginary_ world (like say the world of mathematics
+itself). Monads are a sort of gateway that allows the _imaginary_ world to
+influence the _real_ world.
 
 It is of course arbitrary which world one wants to call 'imaginary' vs 'real'.
 The basic idea is to 'combine' the two worlds together in a way that allows for
