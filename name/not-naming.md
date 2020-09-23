@@ -103,8 +103,10 @@ Thus a vocabulary is built up over time that allows one to _speak_ to other
 code-writers in a language that is _understandable_ to code-writers.
 
 This helps by using a 'standard' name for something, taking the burden off of
-both the writer and the reader. A `for loop` that didn't use `i` for the counter
-would be _harder_ for most 20th century c-like language readers to read.
+both the writer and the reader.
+
+A `for loop` that didn't use `i` for the counter would be _harder_ for most 20th
+century c-like language readers to read.
 
 I find that standard names are the next best thing to a 'no-name'.
 
