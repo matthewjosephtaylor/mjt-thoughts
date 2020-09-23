@@ -118,19 +118,19 @@ name things in their world.
 
 'Not naming' is a valuable _tool_ in the naming-toolbox.
 
-I note that 'not-naming' is a trick many 'world builders' use in writing.
+I note that _not-naming_ is a trick many world builders use in writing.
 
 Often I find stories with _fewer_ names to keep track of, have more of a
-'timeless' quality. Stories with _more_ names I find have a more 'immediate' and
-'real' quality to them.
+_timeless_ quality. Stories with _more_ names I find have a more _immediate_ and
+_real_ quality to them.
 
 It think the same holds for naming in programming. To the degree that the
-program needs to be 'timeless', fewer names are desired. To the degree that the
-program is a 'one off', 'custom' or wants to fill a particular immediate role,
+program needs to be _timeless_, fewer names are desired. To the degree that the
+program is a _one off_, _custom_ or wants to fill a particular _immediate_ role,
 more names are called for.
 
-With this in mind, I think it is best to err on the side of 'too many' names,
-and then 'edit down' the names as the code evolves over time. I also find this a
+With this in mind, I think it is best to err on the side of _too many_ names,
+and then _edit down_ the names as the code evolves over time. I also find this a
 natural inclination, and thus easier to achieve and remain consistent with. The
 names that survive many 'cullings' over time I find take on deeper meaning and
 purpose, and thus 'earn their keep'.
