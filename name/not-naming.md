@@ -133,4 +133,4 @@ With this in mind, I think it is best to err on the side of _too many_ names,
 and then _edit down_ the names as the code evolves over time. I also find this a
 natural inclination, and thus easier to achieve and remain consistent with. The
 names that survive many 'cullings' over time I find take on deeper meaning and
-purpose, and thus 'earn their keep'.
+purpose, and thus _earn their keep_.
