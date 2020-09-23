@@ -118,7 +118,7 @@ name things in their world.
 
 'Not naming' is a valuable _tool_ in the naming-toolbox.
 
-I note that 'no-naming' is a trick many 'world builders' use in writing.
+I note that 'not-naming' is a trick many 'world builders' use in writing.
 
 Often I find stories with _fewer_ names to keep track of, have more of a
 'timeless' quality. Stories with _more_ names I find have a more 'immediate' and
