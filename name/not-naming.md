@@ -47,9 +47,9 @@ more _contexts_.
 ["small", "medium", "large"].map(uppercase);
 ```
 
-Note above the name 'color' rather than _illuminating_ what is going on and
-'filling out' the story, does just the opposite and introduces a confusion,
-perhaps even a _lie_. The more terse 'nameless' version is in some sense
+Note above the name `color` rather than _illuminating_ what is going on and
+_filling out_ the story, does just the opposite and introduces a confusion,
+perhaps even a _lie_. The more terse _nameless_ version is in some sense
 'better'.
 
 Of course the same problem exists with any name
@@ -62,14 +62,14 @@ const uppercase = (value) => value.toLowerCase();
 When I name something I have to be _very careful_ that the name _agrees_ with
 that the _reader_ thinks that name _means_.
 
-This 'agreement' between the reader and the writer is the problem. Problems
+This _agreement_ between the reader and the writer is the problem. Problems
 arise even when the reader and writer are _the same person_ (perhaps before and
 after lunch), much less if other individuals in a team environment, or random
 person on the internet, need to come to agreement.
 
 ## It would be nice to get rid of names altogether
 
-Unfortunately this makes the code as 'unreadable' as a fiction-writer writing a
+Unfortunately this makes the code as _unreadable_ as a fiction-writer writing a
 story with no names for the characters, places, things, etc... Doable perhaps,
 but I doubt if the reader would enjoy the experience.
 
@@ -84,11 +84,11 @@ _joy_ come from.
 When naming, to a degree it depends on who the _target audience_ is and what
 _they_ think a name means or represents.
 
-When I say 'foo' paired with 'bar' those names _represent_ something in
+When I say `foo` paired with `bar` those names _represent_ something in
 particular to one audience, and might be meaningless dribble to another.
 
-When I say 'map' it gets trickier because the word has 'many meanings' in 'many
-contexts' to 'many audiences'.
+When I say `map` it gets trickier because the word has _many meanings_ in _many
+contexts_ to _many audiences_.
 
 However, if I can _get away_ without using _any_ name, that is an elegant
 solution that fits almost anywhere.
