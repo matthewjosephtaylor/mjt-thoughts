@@ -1,4 +1,4 @@
-# Deno Fetches, Node Doesn't, So I Had to Put Node down
+# Deno Fetches, Node Doesn't. Why I Had to Put Node down
 
 I spent the last 2 days of my life battling [Node](https://nodejs.org/en/) and
 [Webpack](https://webpack.js.org/).
