@@ -1,4 +1,4 @@
-# Deno Fetches, Node Doesn't. Why I Had to Put Node down
+# Deno Fetches, Node Doesn't; Why I Had to Put Node down
 
 I spent the last 2 days of my life battling [Node](https://nodejs.org/en/) and
 [Webpack](https://webpack.js.org/).
@@ -48,7 +48,7 @@ needed to do so far was make the typings available via:
 $ deno types > src/types/deno.d.ts
 ```
 
-After that my problem went away and my code ran fine.
+After that my fetch problem went away and my code ran fine.
 
 I also no longer needed to have webpack in 'node' mode, which feels even better.
 
